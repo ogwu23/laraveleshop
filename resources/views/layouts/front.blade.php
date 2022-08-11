@@ -1,3 +1,4 @@
+<!--content copy from layout/admin.blade.php and modified this way-->
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
